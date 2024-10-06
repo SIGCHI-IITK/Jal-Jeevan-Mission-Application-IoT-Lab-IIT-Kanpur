@@ -1,0 +1,14 @@
+Week 1
+
+1). Shashwat - (App Responsiveness)
+
+2). Mrunmay - (Splash Design)
+
+3). Devdhar - (Splash UI Design, for Website Version)
+
+4). Khush - (Splash Animation backend)
+
+5). Devesh - (splash backend screen with Api like -https://pub.dev/packages/animated_splash_screen)
+-video link(https://youtu.be/XXISgdYHdYw?t=586)
+
+6) Burhanuddin - (Multi Language Api)
